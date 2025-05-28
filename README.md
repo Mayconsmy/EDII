@@ -2,6 +2,7 @@
 Repositório do laboratório de Estruturas de Dados II
 
 ### 👨‍🏫 Professor: _Kennedy Reurison Lopes_
+###    Discente: _Maycon Soares Maia_
 
 ## 📘 Lista de Exercícios – Programação em C/C++
 ### Instruções
