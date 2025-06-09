@@ -131,7 +131,7 @@ int main() {
     printf("Pre-ordem: "); preOrdem(raiz); printf("\n");
     printf("Pos-ordem: "); posOrdem(raiz); printf("\n");
 
-    printf("Altura: %d\n", altura(raiz));
+    printf("Altura:  %d\n", altura(raiz));
     printf("Profundidade do 60: %d\n", profundidade(raiz, 60, 0));
     printf("Nivel do 60: %d\n", nivel(raiz, 60));
     printf("Soma dos valores: %d\n", somaValores(raiz));
