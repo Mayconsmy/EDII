@@ -6,3 +6,5 @@ Repositório do laboratório de Estruturas de Dados II
 
 
 [contactEmail]: mailto:kennedy.lopes@ufersa.edu.br
+[contactEmail]: maycon.maia@alunos.ufersa.edu.br
+
