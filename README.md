@@ -1,5 +1,5 @@
 # 2025-1
-Repositório do laboratório de Estruturas de Dados II.
+Repositório do laboratório de Estruturas de Dados II
 
 ### 👨‍🏫 Professor: _Kennedy Reurison Lopes_
 ###    Discente: _Maycon Soares Maia_
